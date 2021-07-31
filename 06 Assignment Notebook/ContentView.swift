@@ -34,7 +34,7 @@ struct ContentView: View {
                 
             }
             .sheet(isPresented: $showingAddAssignmentView, content: {
-                AddItemView(toDoList: assignmentList)
+                AddAssignmentView(assignmentList: assignmentList)
             })
             .navigationBarTitle("Assignment Notebook", displayMode: .inline)
             .navigationBarItems(leading: EditButton(),

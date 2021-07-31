@@ -11,7 +11,6 @@
 		A0094DC726B1C5130040C396 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0094DC626B1C5130040C396 /* ContentView.swift */; };
 		A0094DC926B1C51A0040C396 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0094DC826B1C51A0040C396 /* Assets.xcassets */; };
 		A0094DCC26B1C51A0040C396 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A0094DCB26B1C51A0040C396 /* Preview Assets.xcassets */; };
-		A0094DD426B1CFB30040C396 /* AssignmentsDue.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0094DD326B1CFB30040C396 /* AssignmentsDue.swift */; };
 		A0094DD626B1D6A80040C396 /* AssignmentList.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0094DD526B1D6A80040C396 /* AssignmentList.swift */; };
 		A0094DD826B2C5300040C396 /* AddAssignmentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0094DD726B2C5300040C396 /* AddAssignmentView.swift */; };
 /* End PBXBuildFile section */
@@ -23,7 +22,6 @@
 		A0094DC826B1C51A0040C396 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A0094DCB26B1C51A0040C396 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A0094DCD26B1C51A0040C396 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		A0094DD326B1CFB30040C396 /* AssignmentsDue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignmentsDue.swift; sourceTree = "<group>"; };
 		A0094DD526B1D6A80040C396 /* AssignmentList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AssignmentList.swift; sourceTree = "<group>"; };
 		A0094DD726B2C5300040C396 /* AddAssignmentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddAssignmentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,7 +59,6 @@
 				A0094DC426B1C5130040C396 /* _6_Assignment_NotebookApp.swift */,
 				A0094DC626B1C5130040C396 /* ContentView.swift */,
 				A0094DD726B2C5300040C396 /* AddAssignmentView.swift */,
-				A0094DD326B1CFB30040C396 /* AssignmentsDue.swift */,
 				A0094DD526B1D6A80040C396 /* AssignmentList.swift */,
 				A0094DC826B1C51A0040C396 /* Assets.xcassets */,
 				A0094DCD26B1C51A0040C396 /* Info.plist */,
@@ -151,7 +148,6 @@
 				A0094DD626B1D6A80040C396 /* AssignmentList.swift in Sources */,
 				A0094DC726B1C5130040C396 /* ContentView.swift in Sources */,
 				A0094DC526B1C5130040C396 /* _6_Assignment_NotebookApp.swift in Sources */,
-				A0094DD426B1CFB30040C396 /* AssignmentsDue.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
